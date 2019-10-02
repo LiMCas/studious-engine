@@ -1,0 +1,7 @@
+Requisitos del Sistema:
+
+Prueba en Python
+Python 3.6.5 (por defecto instalado en Ubuntu 18.04)
+
+Prueba en C/C++
+GCC 7.4.0 (por defecto instalado en Ubuntu 18.04)
